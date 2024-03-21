@@ -1,6 +1,5 @@
 # clase-2-optativa
---------Main----------(Clase)
-
+--------Main----------(Clase):
 
 package clase_2_java;
 
